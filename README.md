@@ -1,2 +1,2 @@
-# Tips-to-use-yarn
-yarn简单用法
+# Tips-to-use-yarn yarn的简单用法
+
